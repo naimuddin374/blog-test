@@ -1,0 +1,48 @@
+.theme-color {
+    color: #fe9738;
+}
+
+.themebg-color {
+    color: #fe9738;
+}
+
+.sectionbg-color {
+    background: #f8f8f8;
+}
+
+.color-btn {
+    background: #fe9738;
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    z-index: 2;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 0;
+    line-height: 42px;
+    min-width: 150px;
+    height: 42px;
+    display: inline-block;
+    border: 1px solid transparent;
+    transition: all 0.3s linear;
+}
+.color-btn:hover {
+    color: #fff;
+    background: #1b2f3c;
+}
+
+.transparent-btn:hover {
+    background: #1b2f3c;
+    color: #fff;
+}
+
+.hire-btn {
+    border: 1px solid #f8f8f8;
+    color: #fff;
+    transition: all 0.3s linear;
+}
+
+.hire-btn:hover {
+    color: #fe9738;
+}
